@@ -1,0 +1,443 @@
+{
+  "Atta" : {
+    "Calories" : 339,
+    "Carbohydrate" : 73,
+    "Fat" : 2,
+    "Item" : "Atta",
+    "Protein" : 14
+  },
+  "Bean" : {
+    "Calories" : 31,
+    "Carbohydrate" : 7,
+    "Fat" : 0.1,
+    "Item" : "Bean",
+    "Protein" : 1.8
+  },
+  "Beef" : {
+    "Calories" : 291,
+    "Carbohydrate" : 0,
+    "Fat" : 22,
+    "Item" : "Beef",
+    "Protein" : 24
+  },
+  "Beet" : {
+    "Calories" : 43,
+    "Carbohydrate" : 10,
+    "Fat" : 0.2,
+    "Item" : "Beet",
+    "Protein" : 1.6
+  },
+  "Borboti" : {
+    "Calories" : 47,
+    "Carbohydrate" : 8,
+    "Fat" : 0.4,
+    "Item" : "Borboti",
+    "Protein" : 2.8
+  },
+  "Brinjal" : {
+    "Calories" : 25,
+    "Carbohydrate" : 6,
+    "Fat" : 0.2,
+    "Item" : "Brinjal",
+    "Protein" : 1
+  },
+  "Brown rice (long)" : {
+    "Calories" : 370,
+    "Carbohydrate" : 77,
+    "Fat" : 2.9,
+    "Item" : "Brown rice (long)",
+    "Protein" : 8
+  },
+  "Butter" : {
+    "Calories" : 717,
+    "Carbohydrate" : 0.1,
+    "Fat" : 81,
+    "Item" : "Butter",
+    "Protein" : 0.9
+  },
+  "Cabbage" : {
+    "Calories" : 25,
+    "Carbohydrate" : 6,
+    "Fat" : 0.1,
+    "Item" : "Cabbage",
+    "Protein" : 1.3
+  },
+  "Carrot" : {
+    "Calories" : 41,
+    "Carbohydrate" : 10,
+    "Fat" : 0.2,
+    "Item" : "Carrot",
+    "Protein" : 0.9
+  },
+  "Cashew" : {
+    "Calories" : 553,
+    "Carbohydrate" : 30,
+    "Fat" : 44,
+    "Item" : "Cashew",
+    "Protein" : 18
+  },
+  "Cauliflower" : {
+    "Calories" : 25,
+    "Carbohydrate" : 5,
+    "Fat" : 0.3,
+    "Item" : "Cauliflower",
+    "Protein" : 1.9
+  },
+  "Cheese" : {
+    "Calories" : 402,
+    "Carbohydrate" : 1.3,
+    "Fat" : 25,
+    "Item" : "Cheese",
+    "Protein" : 33
+  },
+  "Chhana" : {
+    "Calories" : "",
+    "Carbohydrate" : "",
+    "Fat" : "",
+    "Item" : "Chhana",
+    "Protein" : ""
+  },
+  "Chholar dal" : {
+    "Calories" : 364,
+    "Carbohydrate" : 61,
+    "Fat" : 6,
+    "Item" : "Chholar dal",
+    "Protein" : 19
+  },
+  "Chicken" : {
+    "Calories" : 239,
+    "Carbohydrate" : 0,
+    "Fat" : 14,
+    "Item" : "Chicken",
+    "Protein" : 27
+  },
+  "Coconut" : {
+    "Calories" : 354,
+    "Carbohydrate" : 15,
+    "Fat" : 33,
+    "Item" : "Coconut",
+    "Protein" : 3.3
+  },
+  "Dhyarosh" : {
+    "Calories" : 33,
+    "Carbohydrate" : 7,
+    "Fat" : 0.2,
+    "Item" : "Dhyarosh",
+    "Protein" : 1.9
+  },
+  "Echor" : {
+    "Calories" : 94,
+    "Carbohydrate" : 24,
+    "Fat" : 0.3,
+    "Item" : "Echor",
+    "Protein" : 1.5
+  },
+  "Egg" : {
+    "Calories" : 78,
+    "Carbohydrate" : 0.6,
+    "Fat" : 5,
+    "Item" : "Egg",
+    "Protein" : 6
+  },
+  "Flour (AP)" : {
+    "Calories" : 364,
+    "Carbohydrate" : 76,
+    "Fat" : 1,
+    "Item" : "Flour (AP)",
+    "Protein" : 10
+  },
+  "Ghee" : {
+    "Calories" : 717,
+    "Carbohydrate" : 0,
+    "Fat" : 81,
+    "Item" : "Ghee",
+    "Protein" : 1
+  },
+  "Green chilli" : {
+    "Calories" : 40,
+    "Carbohydrate" : 9,
+    "Fat" : 0.4,
+    "Item" : "Green chilli",
+    "Protein" : 1.9
+  },
+  "Green mango" : {
+    "Calories" : 65,
+    "Carbohydrate" : 17,
+    "Fat" : 0.3,
+    "Item" : "Green mango",
+    "Protein" : 0.5
+  },
+  "Honey" : {
+    "Calories" : 304,
+    "Carbohydrate" : "",
+    "Fat" : "",
+    "Item" : "Honey",
+    "Protein" : ""
+  },
+  "Jhinge" : {
+    "Calories" : 56,
+    "Carbohydrate" : 14,
+    "Fat" : 0.3,
+    "Item" : "Jhinge",
+    "Protein" : 0.7
+  },
+  "Kachkola" : {
+    "Calories" : 122,
+    "Carbohydrate" : 32,
+    "Fat" : 0,
+    "Item" : "Kachkola",
+    "Protein" : 1
+  },
+  "Ketchup" : {
+    "Calories" : 112,
+    "Carbohydrate" : 26,
+    "Fat" : 0.2,
+    "Item" : "Ketchup",
+    "Protein" : 1.3
+  },
+  "Korola" : {
+    "Calories" : 17,
+    "Carbohydrate" : 3.7,
+    "Fat" : 0.2,
+    "Item" : "Korola",
+    "Protein" : 1
+  },
+  "Lau" : {
+    "Calories" : 14,
+    "Carbohydrate" : 3.4,
+    "Fat" : 0,
+    "Item" : "Lau",
+    "Protein" : 0.6
+  },
+  "Maida" : {
+    "Calories" : 364,
+    "Carbohydrate" : 76,
+    "Fat" : 1,
+    "Item" : "Maida",
+    "Protein" : 10
+  },
+  "Mayonnaise" : {
+    "Calories" : 680,
+    "Carbohydrate" : 0.6,
+    "Fat" : 75,
+    "Item" : "Mayonnaise",
+    "Protein" : 1
+  },
+  "Milk (2%)" : {
+    "Calories" : 50,
+    "Carbohydrate" : 4.8,
+    "Fat" : 2,
+    "Item" : "Milk (2%)",
+    "Protein" : 3.3
+  },
+  "Milk (whole)" : {
+    "Calories" : 61,
+    "Carbohydrate" : 4.8,
+    "Fat" : 3.3,
+    "Item" : "Milk (whole)",
+    "Protein" : 3.2
+  },
+  "Mocha" : {
+    "Calories" : 51,
+    "Carbohydrate" : 9.9,
+    "Fat" : 0.6,
+    "Item" : "Mocha",
+    "Protein" : 1.6
+  },
+  "Moong dal" : {
+    "Calories" : 105,
+    "Carbohydrate" : 19,
+    "Fat" : 0.4,
+    "Item" : "Moong dal",
+    "Protein" : 7
+  },
+  "Mosur dal" : {
+    "Calories" : 345,
+    "Carbohydrate" : 59,
+    "Fat" : 2.2,
+    "Item" : "Mosur dal",
+    "Protein" : 25
+  },
+  "Motor dal" : {
+    "Calories" : 341,
+    "Carbohydrate" : 60,
+    "Fat" : 1.2,
+    "Item" : "Motor dal",
+    "Protein" : 25
+  },
+  "Mushroom" : {
+    "Calories" : 22,
+    "Carbohydrate" : 3.3,
+    "Fat" : 0.3,
+    "Item" : "Mushroom",
+    "Protein" : 3.1
+  },
+  "Mustard (whole)" : {
+    "Calories" : 508,
+    "Carbohydrate" : 28,
+    "Fat" : 36,
+    "Item" : "Mustard (whole)",
+    "Protein" : 26
+  },
+  "Mustard Oil" : {
+    "Calories" : 884,
+    "Carbohydrate" : 0,
+    "Fat" : 100,
+    "Item" : "Mustard Oil",
+    "Protein" : 0
+  },
+  "Mutton" : {
+    "Calories" : 267,
+    "Carbohydrate" : 0,
+    "Fat" : 22,
+    "Item" : "Mutton",
+    "Protein" : 17
+  },
+  "Olive oil" : {
+    "Calories" : 884,
+    "Carbohydrate" : 0,
+    "Fat" : 100,
+    "Item" : "Olive oil",
+    "Protein" : 0
+  },
+  "Paneer" : {
+    "Calories" : "",
+    "Carbohydrate" : "",
+    "Fat" : "",
+    "Item" : "Paneer",
+    "Protein" : ""
+  },
+  "Pea" : {
+    "Calories" : 81,
+    "Carbohydrate" : 14,
+    "Fat" : 0.1,
+    "Item" : "Pea",
+    "Protein" : 5
+  },
+  "Peanut" : {
+    "Calories" : 567,
+    "Carbohydrate" : 16,
+    "Fat" : 49,
+    "Item" : "Peanut",
+    "Protein" : 26
+  },
+  "Poppy seed" : {
+    "Calories" : 525,
+    "Carbohydrate" : 28,
+    "Fat" : 42,
+    "Item" : "Poppy seed",
+    "Protein" : 18
+  },
+  "Pork" : {
+    "Calories" : 314,
+    "Carbohydrate" : 0.7,
+    "Fat" : 28,
+    "Item" : "Pork",
+    "Protein" : 15
+  },
+  "Potato" : {
+    "Calories" : 77,
+    "Carbohydrate" : 17,
+    "Fat" : 0.1,
+    "Item" : "Potato",
+    "Protein" : 2
+  },
+  "Potol" : {
+    "Calories" : "",
+    "Carbohydrate" : "",
+    "Fat" : "",
+    "Item" : "Potol",
+    "Protein" : ""
+  },
+  "Prawn" : {
+    "Calories" : 99,
+    "Carbohydrate" : 0.2,
+    "Fat" : 0.3,
+    "Item" : "Prawn",
+    "Protein" : 24
+  },
+  "Pumpkin" : {
+    "Calories" : 26,
+    "Carbohydrate" : 7,
+    "Fat" : 0.1,
+    "Item" : "Pumpkin",
+    "Protein" : 1
+  },
+  "Raisin" : {
+    "Calories" : 299,
+    "Carbohydrate" : 79,
+    "Fat" : 0.5,
+    "Item" : "Raisin",
+    "Protein" : 3.1
+  },
+  "Rice (long)" : {
+    "Calories" : 365,
+    "Carbohydrate" : 80,
+    "Fat" : 0.7,
+    "Item" : "Rice (long)",
+    "Protein" : 7
+  },
+  "Salmon" : {
+    "Calories" : 206,
+    "Carbohydrate" : 0,
+    "Fat" : 12,
+    "Item" : "Salmon",
+    "Protein" : 22
+  },
+  "Spinach" : {
+    "Calories" : 23,
+    "Carbohydrate" : 3.6,
+    "Fat" : 0.4,
+    "Item" : "Spinach",
+    "Protein" : 2.9
+  },
+  "Sugar" : {
+    "Calories" : 387,
+    "Carbohydrate" : 100,
+    "Fat" : 0,
+    "Item" : "Sugar",
+    "Protein" : 0
+  },
+  "Sweet Potato" : {
+    "Calories" : 86,
+    "Carbohydrate" : 20,
+    "Fat" : 0.1,
+    "Item" : "Sweet Potato",
+    "Protein" : 1.6
+  },
+  "Tilapia" : {
+    "Calories" : 129,
+    "Carbohydrate" : 0,
+    "Fat" : 2.7,
+    "Item" : "Tilapia",
+    "Protein" : 26
+  },
+  "Tomato" : {
+    "Calories" : 18,
+    "Carbohydrate" : 3.9,
+    "Fat" : 0.2,
+    "Item" : "Tomato",
+    "Protein" : 0.9
+  },
+  "Vegetable oil" : {
+    "Calories" : 884,
+    "Carbohydrate" : 0,
+    "Fat" : 100,
+    "Item" : "Vegetable oil",
+    "Protein" : 0
+  },
+  "White bread" : {
+    "Calories" : 265,
+    "Carbohydrate" : 49,
+    "Fat" : 3.2,
+    "Item" : "White bread",
+    "Protein" : 9
+  },
+  "Yoghurt" : {
+    "Calories" : 61,
+    "Carbohydrate" : 4.7,
+    "Fat" : 3.3,
+    "Item" : "Yoghurt",
+    "Protein" : 3.5
+  }
+}
