@@ -1,6 +1,6 @@
 # get-calorie
 
-> calculate calories in your food
+> calculate calories in your food. See LIVE at http://getcalorie.com
 
 ## Build Setup
 
